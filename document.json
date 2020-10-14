@@ -19,7 +19,8 @@
     }
   ],
   "buckets": [
-    "tcga-2-open"
+    "tcga-2-open",
+    "tcga-2-controlled"
   ],
   "meta": {
     "Install time": [
